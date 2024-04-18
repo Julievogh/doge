@@ -64,4 +64,5 @@ export default async function DogPage({ params }) {
   );
 }
 
+// tilføj likeButton i main
 // henry, pete, tommi
